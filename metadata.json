@@ -1,0 +1,7 @@
+{
+  "name": "MediScan AI",
+  "description": "An intelligent medicine assistant that identifies medications from images, explains their uses, and checks expiration dates.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
