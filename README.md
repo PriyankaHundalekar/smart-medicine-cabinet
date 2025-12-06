@@ -4,6 +4,10 @@
 
 ![App Screenshot](https://via.placeholder.com/800x400?text=MediScan+AI+Preview)
 
+<img width="1916" height="1030" alt="image" src="https://github.com/user-attachments/assets/044dc5d4-8d74-4139-8ef5-984031be6776" />
+
+https://mediscan-ai-692884914635.us-west1.run.app/
+
 ## ✨ Features
 
 *   **📷 Instant AI Scanning**: Upload or take a photo of any pill, bottle, or blister pack. The AI extracts the name, dosage, expiry date, uses, and side effects.
