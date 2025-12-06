@@ -56,7 +56,7 @@ https://mediscan-ai-692884914635.us-west1.run.app/
 <img width="1919" height="1026" alt="image" src="https://github.com/user-attachments/assets/c0b55620-f6cc-4c58-80cb-6d402c25cb0f" />
 
 
-### Health Assitant
+### Health Assistant
 <img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/86668c81-6d2e-4806-91ce-e74e20225284" />
 
 
