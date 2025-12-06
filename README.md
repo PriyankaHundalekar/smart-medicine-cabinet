@@ -2,9 +2,7 @@
 
 **MediScan AI** is an intelligent medical assistant application powered by **Google Gemini 2.5**. It allows users to identify medications from images, manage a digital medicine cabinet, check for dangerous drug interactions, and consult with a general health AI assistant.
 
-<img width="1916" height="1030" alt="image" src="https://github.com/user-attachments/assets/044dc5d4-8d74-4139-8ef5-984031be6776" />
-
-https://mediscan-ai-692884914635.us-west1.run.app/
+![App Screenshot](https://via.placeholder.com/800x400?text=MediScan+AI+Preview)
 
 ## ✨ Features
 
@@ -40,25 +38,20 @@ https://mediscan-ai-692884914635.us-west1.run.app/
     npm install
     ```
 3.  Set up your API Key:
-    *   Create a `.env` file in the root directory.
-    *   Add: `API_KEY=your_google_gemini_api_key`
+    *   Create a file named `.env` in the root directory.
+    *   Paste your key inside: `API_KEY=your_actual_api_key_here`
+    *   **Note:** This file is ignored by Git and will not be uploaded.
 4.  Run the development server:
     ```bash
     npm run dev
     ```
 
+## 🔒 Security Note
 
-### Scan Medicine
-<img width="1919" height="1026" alt="image" src="https://github.com/user-attachments/assets/21bdba54-49b2-4a20-8c3e-ec99aca791ef" />
-
-
-### Cabinet History
-<img width="1919" height="1026" alt="image" src="https://github.com/user-attachments/assets/c0b55620-f6cc-4c58-80cb-6d402c25cb0f" />
-
-
-### Health Assistant
-<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/86668c81-6d2e-4806-91ce-e74e20225284" />
-
+This repository uses `process.env.API_KEY` to access Google Gemini. 
+*   **Source Code**: The source code pushed to GitHub does **not** contain your API key.
+*   **Local Development**: Your key is stored in `.env`, which is listed in `.gitignore` to prevent accidental uploads.
+*   **Deployment**: When deploying to Vercel, Netlify, or other cloud providers, you must add `API_KEY` in the project's "Environment Variables" settings.
 
 ## ⚠️ Disclaimer
 
