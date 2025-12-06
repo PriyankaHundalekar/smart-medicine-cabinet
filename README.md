@@ -2,8 +2,6 @@
 
 **MediScan AI** is an intelligent medical assistant application powered by **Google Gemini 2.5**. It allows users to identify medications from images, manage a digital medicine cabinet, check for dangerous drug interactions, and consult with a general health AI assistant.
 
-![App Screenshot](https://via.placeholder.com/800x400?text=MediScan+AI+Preview)
-
 <img width="1916" height="1030" alt="image" src="https://github.com/user-attachments/assets/044dc5d4-8d74-4139-8ef5-984031be6776" />
 
 https://mediscan-ai-692884914635.us-west1.run.app/
